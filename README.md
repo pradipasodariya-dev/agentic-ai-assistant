@@ -4,7 +4,7 @@ This project demonstrates how to build a simple, autonomous Agentic AI assistant
 
 ---
 
-## 🔧 Features
+## Features
 
 - 🧠 LLM-powered agent using GPT (OpenAI)
 - 🔍 Real-time web search (Google Programmable Search API)
@@ -13,7 +13,7 @@ This project demonstrates how to build a simple, autonomous Agentic AI assistant
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - `Python 3.9+`
 - `LangChain`
@@ -44,7 +44,7 @@ WEATHER_API_KEY=your-weatherapi-key
 
 ---
 
-## 🚀 How to Run
+## How to Run project
 
 ```bash
 git clone https://github.com/yourname/agentic-ai-assistant.git
@@ -58,7 +58,7 @@ python main.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 agentic-ai-assistant/
@@ -75,16 +75,18 @@ agentic-ai-assistant/
 
 ---
 
-## 📌 Output Sample
+## Output
 
 ```
 Agent: Checking Tokyo's weather and the latest GenAI news...
 Final Answer:
-Tokyo's weather is cloudy, 26.2°C. Recent news includes Mosaicx launching an AI-native platform.
+Tokyo's weather is cloudy, 26°C. Recent news includes Mosaicx launching an AI-native platform.
 ```
+![image](https://github.com/user-attachments/assets/4ebfaabb-58da-4378-863d-5c99a7c0f57f)
+
 
 ---
 
-## 🙏 Feedback
+## Feedback
 
 If this project helped you, give it a ⭐ on GitHub or suggest improvements in Issues!
